@@ -1,0 +1,54 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "vijesh",
+      "database": "go_movies",
+      "username": "vijesh",
+      "password": "8489"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "go",
+      "database": "go",
+      "username": "postgres",
+      "password": "8489"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "vijesh",
+      "database": "go_movies",
+      "username": "postgres",
+      "password": "8489"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "database": "go_movies",
+      "username": "postgres",
+      "password": "8489"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "postgres",
+      "database": "go_movies",
+      "username": "postgres",
+      "password": "8489"
+    }
+  ]
+}
