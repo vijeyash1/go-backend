@@ -7,6 +7,7 @@ sudo service postgresql start
 
 sudo service postgresql stop
 
+<<<<<<< HEAD
 sudo -u postgres -i
 
 tidown account:
@@ -20,3 +21,6 @@ Krypt0nWork@
 tempmails:
 
 @TempMail_org_bot
+=======
+sudo su postgres 
+>>>>>>> c785f4d1ca8456eb2b71cb44a0a027b386cc9822
